@@ -34,5 +34,14 @@ Three machine learning models were trained and evaluated:
 - Comparison of multiple ML models to find the best performer.  
 - Visualization of sensor data and model performance metrics.  
 - Easily extendable for other industrial machinery datasets.
+ ##Tech Stack
+
+Python
+
+Scikit-learn
+
+Pandas & NumPy
+
+Matplotlib & Seaborn
 
 
