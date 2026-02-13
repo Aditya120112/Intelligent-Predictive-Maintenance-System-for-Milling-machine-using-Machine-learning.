@@ -1,6 +1,16 @@
 # Intelligent-Predictive-Maintenance-System-for-Milling-machine-using-Machine-learning.
 Intelligent Predictive Maintenance for Milling Machines using AI4I dataset. Implemented 3 ML models to predict machine failures, reduce downtime, and improve efficiency. Includes model comparison, performance metrics, and visualizations for data-driven maintenance decisions.
-Table of Contents
+
+## Table of Contents
+
+1. [Dataset](#dataset)  
+2. [Models Implemented](#models-implemented)  
+3. [Features](#features)  
+4. [Installation & Usage](#installation--usage)  
+5. [Outcome](#outcome)  
+6. [Tech Stack](#tech-stack)  
+7. [License](#license)  
+
 
 ## Dataset
 
