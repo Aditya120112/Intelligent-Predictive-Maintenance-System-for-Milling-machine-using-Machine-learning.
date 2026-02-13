@@ -36,12 +36,9 @@ Three machine learning models were trained and evaluated:
 - Easily extendable for other industrial machinery datasets.
  ##Tech Stack
 
-Python
-
-Scikit-learn
-
-Pandas & NumPy
-
-Matplotlib & Seaborn
+-Python
+-Scikit-learn.
+-Pandas & NumPy.
+-Matplotlib & Seaborn.
 
 
